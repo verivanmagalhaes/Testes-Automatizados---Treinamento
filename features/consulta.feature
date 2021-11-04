@@ -9,17 +9,17 @@
         Entao o titulo da pagina deve <titulo_obtido>
 
         Exemplos:
-        |produto          |titulo_obtido                     |
-        |"Relogio"        |"Relogio - Pesquisa Google"       |
-        |"Notebook"       |"Notebook - Pesquisa Google"      |
-        |"Televisão 4k"   |"Televisão 4k - Pesquisa Google"  |
-        |"Smartphone"     |"Smartphone - Pesquisa Google"    |
-        |"PC Gamer"       |"PC Gamer - Pesquisa Google"      |
-        |"Smartwatch"     |"Smartwatch - Pesquisa Google"    |
-        |"Cooktop"        |"Cooktop - Pesquisa Google"       |
-        |"Coifa"          |"Coifa - Pesquisa Google"         |
-        |"Forno elétrico" |"Forno elétrico - Pesquisa Google"|
-        |"Macbook M1"     |"Macbook M1 - Pesquisa Google"    |
+        |produto          |titulo_obtido               |
+        |"Caderno"        |"Caderno - Pesquisa Google" |
+        |"Lapis"          |"Lapis - Pesquisa Google"   |
+        |"Caneta"         |"Caneta - Pesquisa Google"  |
+        |"Escola"         |"Escola - Pesquisa Google"  |
+        |"Livros"         |"Livros - Pesquisa Google"  |
+        |"Tablet"         |"Tablet - Pesquisa Google"  |
+        |"Mesa"           |"Mesa - Pesquisa Google"    |
+        |"Cadeira"        |"Cadeira - Pesquisa Google" |
+        |"Sofa"           |"Sofa - Pesquisa Google"    |
+        |"Fogao"          |"Fogao - Pesquisa Google"   |
 
 
 
